@@ -1,0 +1,371 @@
+.Titulo-card{
+    width:1520px;
+    height: 150px;
+    background-color: crimson;
+    padding:0.5%;
+    margin: 0.5%;
+}
+
+.Interior-card{
+    width:1480px;
+    height:115px;
+    background-color:gold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Anexo-card{
+    width:1490px;
+    height:42px;
+    background-color:silver;
+    margin-left: 20px;
+}
+
+.Dentro-card{
+    width:1450px;
+    height:85px;
+    background-color:azure;
+    padding: 5px;
+    margin: 5px; 
+    text-align: center;
+    font-size:270%;
+    font-weight: bolder;
+}
+
+.Logo-card{
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.btn-todo{
+    border:1.85px solid black;
+    outline:100px;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position:absolute;
+    top: 42.1%;
+    left: 22.7%;
+    z-index: 0;
+    height: 45px;
+    width: 100px;
+}
+
+.btn-todo:hover{
+    background:#451a11;
+}
+
+.btn-av{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 28.2%;
+    height: 45px;
+    width: 100px;
+}
+
+.btn-av:hover{
+    background:#451a11;
+}
+
+.btn-ay{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 34.4%;
+    height: 45px;
+    width: 100px;
+}
+
+.btn-ay:hover{
+    background:#451a11;
+}
+
+.btn-pr{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 40.7%;
+    height: 45px;
+    width: 120px;
+}
+
+.btn-pr:hover{
+    background:#451a11;
+}
+
+.btn-su{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 48.2%;
+    height: 45px;
+    width: 130px;
+}
+
+.btn-su:hover{
+    background:#451a11;
+}
+
+.btn-op{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 56.5%;
+    height: 45px;
+    width: 200px;
+}
+
+.btn-op:hover{
+    background:#451a11;
+}
+
+.btn-imp{
+    border:1.85px solid black;
+    outline:none;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 42.1%;
+    left: 69.2%;
+    height: 45px;
+    width: 130px;
+}
+
+.btn-imp:hover{
+    background:#451a11;
+}
+
+.btn-new{
+    border:10px solid dodgerblue;
+    border-radius:20%;
+    outline:dodgerblue;
+    background:transparent;
+    padding:10px 20px;
+    font-size:20.65977px;
+    color:dodgerblue;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 86.7%;
+    left: 82.2%;
+    font-style: italic;
+    font-weight: bold;
+    width: 250px;
+}
+
+.btn-new:hover{
+    background:skyblue;
+    color:darkblue;
+    border: 10px solid deepskyblue;
+}
+
+.btn-cancel{
+    border:5px solid crimson ;
+    border-radius:20%;
+    outline:crimson;
+    background:transparent;
+    padding:10px 20px;
+    font-size:20px;
+    color:crimson;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 89.7%;
+    left: 65.2%;
+    font-style: italic;
+    font-weight: bold;
+    width: 225px;
+}
+
+.btn-cancel:hover{
+    background:orangered;
+    color:white;
+    border: 5px solid orangered;
+}
+
+.btn-publicar{
+    border:5px solid dodgerblue;
+    border-radius:20%;
+    outline:dodgerblue;
+    background:transparent;
+    padding:10px 20px;
+    font-size:20.65977px;
+    color:dodgerblue;
+    cursor:pointer;
+    margin:10px auto;
+    position: absolute;
+    top: 89.7%;
+    left: 82.2%;
+    font-style: italic;
+    font-weight: bold;
+    width: 250px;
+}
+
+.btn-publicar:hover{
+    background:skyblue;
+    color:darkblue;
+    border: 5px solid deepskyblue;
+}
+
+.Search-card{
+width: 1435px;
+height: 100px;
+margin-left:4.8%;
+margin-top:-75px;
+font-size: large;
+position: relative;
+}
+
+.Title-card{
+    width: 1490px;
+    height: 100px;
+    margin-bottom:50px;
+    margin-top: 40px;
+    margin-left: 10px;
+    border-color: black;
+    }
+
+    
+.Post-card{
+    width: 1490px;
+    height: -500px;
+    margin-left: 10px;
+    margin-top:-1.25%;
+    }
+
+
+.Logo-img{
+margin-right: -0.15%;
+margin-left: 96.5%;
+margin-top: -145px;
+margin-bottom: 125px;
+position: relative;
+}
+
+.Logo-img-2{
+margin-right: 84%;
+margin-left: -0.15%;
+margin-top: -52px;
+margin-bottom: 95px;
+}
+
+.Tabla-img{
+margin-top: -50%;
+margin-bottom: 86%;
+position: absolute;
+}
+
+.Clip-img{
+    margin-top: -2.5%;
+    margin-left: 55%;
+}
+
+.Pregunta-img{
+    margin-top:-4.0%;
+    margin-left: 80%; 
+}
+
+.Duda-img{
+    bottom: 70%;
+    margin-left: 58%;
+}
+
+
+
+.btn-mes-antes{
+    border:1.85px solid black;
+    outline:100px;
+    border-radius:80%;
+    background:#ad2103;
+    padding:10px 20px;
+    font-size:17.5px;
+    color:white;
+    cursor:pointer;
+    margin:10px auto;
+    position:absolute;
+    top: 42.1%;
+    left: 12.7%;
+    z-index: 0;
+    height: 99px;
+    width: 98px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .btn-mes-antes:hover{
+    background:#451a11;
+  }
+
+  .mes-img{
+    margin-left: 20%;
+    position: absolute;
+    }
+
+    .btn-mes-despues{
+        border:1.85px solid black;
+        outline:100px;
+        border-radius:80%;
+        background:#ad2103;
+        padding:10px 20px;
+        font-size:17.5px;
+        color:white;
+        cursor:pointer;
+        margin:10px auto;
+        position:absolute;
+        top: 42.1%;
+        left: 79.4%;
+        z-index: 0;
+        height: 99px;
+        width: 98px;
+        display: flex;
+        align-items: center;
+      }
+      
+      .btn-mes-despues:hover{
+        background:#451a11;
+      }
+
